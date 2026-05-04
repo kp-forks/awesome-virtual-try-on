@@ -197,6 +197,10 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 
 ## 3D Virtual Try-on
 
+  #### IJCV 2026
+  - GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting - [Project](https://yukangcao.github.io/GS-VTON/), [Paper](https://arxiv.org/abs/2410.05259), [Code](https://github.com/yukangcao/GS-VTON)
+
+
   #### CVPR 2024
   - DiffAvatar Simulation-Ready Garment Optimization with Differentiable Simulation - [Project](https://people.csail.mit.edu/liyifei/publication/diffavatar/), [Code](https://github.com/facebookresearch/DiffAvatar)
   - Garment Recovery with Shape and Deformation Priors - [Project/Code](https://github.com/liren2515/GarmentRecovery)
